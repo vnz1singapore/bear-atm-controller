@@ -1,0 +1,12 @@
+## .NET build artifacts
+bin/
+obj/
+
+## IDE
+.vs/
+.vscode/
+*.user
+
+## Test results
+TestResults/
+*.trx
